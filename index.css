@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;1,600&display=swap');
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container_perfil{
+    padding: 0px 100px;
+} 
+
+.apresentacao p{
+    margin-right: 250px;
+    text-align:start;
+}
+
+.localizacao{
+    max-width: 35px;
+    margin-right: 5px;
+}
+.container_perfil .row .col .localizacao_texto{
+    padding: 8px 0;
+}
+
+.container_perfil .row hr{
+   width: 350px;
+}
+
+.container_projetos .row{
+    padding: 10px 0px;
+}
+
+.container_projetos .row .col{
+    margin-left: -300px;
+}
+
+.container_projetos .row .col .carousel{
+    width: 100%;
+    max-width: 1000px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.5
+}
+
+p, a{
+    line-height: 1.5
+}
+
+.img_perfil{
+    max-width: 250px;
+}
+
+.descricao .ingles{
+    display: none;
+}
+
+.descricao:hover .ingles{
+    display: block;
+}
+
+.contato img, .container_projetos .row .linguagens img{
+    max-width: 40px;
+    margin: 1px;
+}
+
+
+
