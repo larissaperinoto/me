@@ -3,38 +3,9 @@ body{
     font-family: 'Roboto Mono', monospace;
 }
 
-.container_perfil{
-    padding: 0px 100px;
-} 
-
-.apresentacao p{
-    margin-right: 250px;
-    text-align:start;
-}
-
 .localizacao{
     max-width: 35px;
     margin-right: 5px;
-}
-.container_perfil .row .col .localizacao_texto{
-    padding: 8px 0;
-}
-
-.container_perfil .row hr{
-   width: 350px;
-}
-
-.container_projetos .row{
-    padding: 10px 0px;
-}
-
-.container_projetos .row .col{
-    margin-left: -300px;
-}
-
-.container_projetos .row .col .carousel{
-    width: 100%;
-    max-width: 1000px;
 }
 
 h1{
@@ -64,7 +35,7 @@ p, a{
     display: block;
 }
 
-.contato img, .container_projetos .row .linguagens img{
+.contato img, .linguagens img{
     max-width: 40px;
     margin: 1px;
 }
