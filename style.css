@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url(./img/pexels-alex-azabache-3879070.jpg);
+    background-image: url(./img/pexels-francesco-ungaro-2325446.jpg);
     background-size: cover;
     font-family: 'Indie Flower', cursiva;
     padding: 50px 200px;
@@ -18,9 +18,9 @@ body{
 
 .foto_perfil{
     width: 250px;
-    height: 300px;
+    height: 320px;
     border-radius: 20px;
-    border: 2px solid rgba(67, 65, 65, 0.7);
+    border: 3px solid rgba(67, 65, 65, 0.7);
     margin: 20px;
 }
 
